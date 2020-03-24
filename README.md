@@ -6,9 +6,9 @@ Updated notification about spread of Covid-19 in Indian states on your desktop.
 3)This program will update the spread of coronavirus in every two hours.(You can change the time)
 
 Packages used:
-BeautifulSoup
-request
-plyer
+BeautifulSoup,
+request,
+plyer.
 
 Note:
 The data is taken from the official website of Ministry of Health and Family Welfare.
